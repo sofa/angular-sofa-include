@@ -1,5 +1,5 @@
 /**
- * angular-sofa-include - v0.1.0 - Fri Jan 09 2015 17:03:48 GMT+0100 (CET)
+ * angular-sofa-include - v0.1.0 - Fri Jan 09 2015 17:15:45 GMT+0100 (CET)
  * http://www.sofa.io
  *
  * Copyright (c) 2014 CouchCommerce GmbH (http://www.couchcommerce.com / http://www.sofa.io) and other contributors
